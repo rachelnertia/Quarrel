@@ -1,0 +1,3 @@
+[submodule "External/Quiver"]
+	path = External/Quiver
+	url = https://github.com/rachelnertia/Quiver.git
